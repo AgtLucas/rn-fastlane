@@ -1,0 +1,3 @@
+rootProject.name = 'RNFastlane'
+
+include ':app'
