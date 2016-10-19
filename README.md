@@ -12,7 +12,7 @@ $ gem install fastlane --verbose
 
 * Create a private repo to store all the certs/profiles
 
-Init match and point your private repo url
+> Init match and point your private repo url
 ```sh
 $ match init
 ```
@@ -47,7 +47,7 @@ $ fastlane init
 
 * Code signing
 
-Use Automatic on `Provisioning Profile`
+> Use Automatic on `Provisioning Profile`
 ```
 $(sigh_’ + bundle_id + ‘_appstore’)
 ```
