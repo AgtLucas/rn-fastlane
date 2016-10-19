@@ -1,8 +1,8 @@
 # rn-fastlane
 
-Setting up Fastlane
+## Setting up Fastlane
 
-Install fastlane:
+> Install fastlane:
 
 ```sh
 $ gem install fastlane --verbose
