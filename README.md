@@ -59,3 +59,12 @@ Done!
 ```sh
 $ fastlane beta
 ```
+
+---
+
+## References
+
+* [Fastlane](https://fastlane.tools/)
+* [Infinite Red - Simple React Native iOS Releases](https://shift.infinite.red/simple-react-native-ios-releases-4c28bb53a97b#.ar38yyso7)
+* [Deploying a React Native App with Fastlane - Part 1](https://dbanck.svbtle.com/deploying-a-react-native-app-with-fastlane)
+* [Deploying a React Native App with Fastlane - Part 2](https://dbanck.svbtle.com/part-2-android-with-fastlane-supply)
